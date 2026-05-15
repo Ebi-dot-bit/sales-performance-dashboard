@@ -1,0 +1,16 @@
+metric,value,unit
+Total Revenue,13572415.49,$
+Gross Profit,3024901.94,$
+Avg Gross Margin,0.3015,%
+Total Orders,12000,count
+Avg Order Value,1131.03,$
+Total Units Sold,63164,count
+Avg Discount Rate,0.0556,%
+Target Achievement,0.7996,%
+Active Sales Reps,12,count
+Best Month Revenue,1623812.27,$
+Best Month,Dec,text
+Top Region,Northeast,text
+Top Rep,Priya Sharma,text
+Top Category Revenue,Electronics,text
+Top Category Margin,Apparel,text
