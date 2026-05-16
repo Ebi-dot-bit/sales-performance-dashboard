@@ -97,7 +97,7 @@ sales-performance-dashboard/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-performance-dashboard.git
+git clone https://github.com/Ebi-dot- bit/sales-performance-dashboard.git
 cd sales-performance-dashboard
 ```
 
