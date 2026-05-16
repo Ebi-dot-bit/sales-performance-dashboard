@@ -175,4 +175,4 @@ Open the [live Tableau Public dashboard](https://public.tableau.com/app/profile/
 ## About
 
 Built as Project 1 of a 90-day data analytics portfolio roadmap.
-Connect on [LinkedIn](www.linkedin.com/in/onah-ebinum-9091a71a5) · [Tableau Public](https://public.tableau.com/app/profile/ebinum.onah/vizzes)
+Connect on [LinkedIn](https://linkedin.com/in/onah-ebinum-9091a71a5) · [Tableau Public](https://public.tableau.com/app/profile/ebinum.onah/vizzes)
