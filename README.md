@@ -23,16 +23,16 @@ This project simulates a real-world analyst workflow: starting from a messy raw 
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](dashboard/screenshots/screenshot_01_executive_summary.png)
+![Executive Summary](dashboard/screenshot_01_executive_summary.png)
 
 ### Product Performance
-![Product Performance](dashboard/screenshots/screenshot_02_product_performance.png)
+![Product Performance](dashboard/screenshot_02_product_performance.png)
 
 ### Sales Rep Scorecard
-![Rep Scorecard](dashboard/screenshots/screenshot_03_rep_scorecard.png)
+![Rep Scorecard](dashboard/screenshot_03_rep_scorecard.png)
 
 ### Filtered View — Northeast, Q4
-![Filtered View](dashboard/screenshots/screenshot_04_filtered_view.png)
+![Filtered View](dashboard/screenshot_04_filtered_view.png)
 
 ---
 
